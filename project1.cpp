@@ -84,10 +84,6 @@ int main()
     cin >> start >> end;
 
     FU(GR, n, start, end);
-    //Dijkstra(GR, start, end);
-
-    //cin >> n;
-    //stoer_wagner(n);
-
+    
     return 0;
 }
